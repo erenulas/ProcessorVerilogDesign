@@ -1,6 +1,6 @@
 # Verilog Design of a Processor
 It's the implementation of a processor in Verilog programming language. 
-- Logisim design of the same processor can be reached from [here](https://github.com/erenulas/ProcessorLogisimDesign).
+- Logisim design of this processor can be reached from [here](https://github.com/erenulas/ProcessorLogisimDesign).
 - Assembler for this processor implemented in Python programming language can be found [here](https://github.com/erenulas/Assembler).
 
 ## How to Use It?
